@@ -1,5 +1,5 @@
 # Spring Boot Banking API
-
+Spring Boot REST API for banking operations including account creation, deposit, withdrawal, and fund transfer.
 A simple **Banking Backend REST API** built using **Spring Boot, Spring Data JPA, and MySQL**.
 This application allows users to create bank accounts, deposit money, withdraw money, and transfer funds between accounts.
 
